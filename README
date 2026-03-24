@@ -1,1 +1,1 @@
-README
+A small project I made to understand redis. It simply converts long URL to shorter ones using hashmap and can getch long URL from short keys.
